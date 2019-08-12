@@ -1,0 +1,876 @@
+[
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/515476",
+            "date": "August 7, 2018",
+            "author_job": "Consultant",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Mindblowing speed and flexibility",
+            "summary": "Betty Block is a very responsive organisation. During development their support staff is always on hand to assist when things become to difficult to solve by ourselves. The speed that using their platform brings to organisations is mind blowing. Things that used to take 9 months can now be achieved in a matter of weeks with a lot more flexibility to get the end product an organisation really needs.",
+            "liked_most": "The speed that you can achieve in building stuff. And because of that speed at adjusting stuff. Gone are the days of writing large functional design documents. We can build a proof of concept in a day and use the available creative energy to then make the best product possible.",
+            "disliked_most": "Because of the structure of the platform people with a coding background need a little time to adjust before becoming completely fluent.",
+            "advice": "Let Betty Block or one of their partners show you what they can do in one day. It will blow your mind and proof that they can support your organisation.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market",
+                "Drive innovation",
+                "Improve business process outcomes",
+                "Improve business process agility"
+            ],
+            "key_factors": [
+                "Strong consulting partnership",
+                "Product functionality and performance",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Company-wide",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/517814",
+            "date": "August 14, 2018",
+            "author_job": "Product Management/Marketing",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "50M - 250M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Great partnership with Betty Blocks: Perfect teamwork and work hard, play hard!",
+            "summary": "Great company to partner with, disruptive solutions for custom application development using a state of the art solution for building no- and low-code applications. I started this new partnership in 2015 and we provide implementation services to new customers almost every week, with currently a team of more than 20 fulltime consultants. Great teamwork together in (pre)sales, implementation, requirements for new platform features, academy sessies, propositions, partnership with other solution providers (e.g. geo-specialized partners), hence a perfect partnership!",
+            "liked_most": "Full SaaS, no maintenance, rich features, easy to use, impressive roadmap, use as no-code platform very promising. Great teamwork when issues have to be solved, performance improvement and cutting edge innovation projects. Move to the blockstore very promising for our solutions, propositions and increasing our speed of building new application, reusing building blocks and solutions.",
+            "disliked_most": "We miss automated test features and a fix for some known issues regarding merging DTAP-versions (solutions are planned for and support by Betty Blocks always available to solve these issues when they occur).",
+            "advice": "Do not spent your money in detailed specs/requirements when you want a new (custom) application or want to implement a expensive ERP of off-the-shelve solution. With Betty Blocks you can, agile, build the entire solution, that fits like a tailor-made suit, with the price of a off-the-rack suit.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market",
+                "Improve business process agility",
+                "Drive revenue growth",
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Product roadmap and future vision",
+                "Strong customer focus",
+                "Product functionality and performance",
+                "Overall cost"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Completely internal"
+        },
+        "additional_context": {
+            "version_number": "not applicable",
+            "deployment_scale": " Company-wide",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/522422",
+            "date": "August 14, 2018",
+            "author_job": "Product Management/Marketing",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Steep learning curve, but isn't that the case with all No-Code platforms?",
+            "summary": "Great Platform. Once the steep learning curve has passed, it is easy to built applications. Positive point is that they are easy to contact, and there answer is always quick and helpful. ",
+            "liked_most": "One thing that impressed me was the way BB works with 'Sand Boxes' Did work very nicely, and our customer was impressed by weekly implementation of new functionality, without effect on the 'business' .",
+            "disliked_most": "Steep learning curve. They way to start working with BB might be expaint more. ",
+            "advice": "Take time to get to now the platform, and use the online 'help chat' of BB if you can't find the way to work with it. It is easy to try to find the solution yourself, but the online helpers might help you much quicker.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Reduce time to market",
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Other...",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "?",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/528650",
+            "date": "August 23, 2018",
+            "author_job": "Other CxO",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Government",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Fast results, good understanding of our needs",
+            "summary": "This company works on a very pleasant way with us, by understanding our needs and not just selling software. Their way to maken applications with a no-code system and building this in short periods of 3 to 5 days is excellent. By doing so there is a good feeling of what is created en financial risks are eliminated. Personal contacts are as they should be: fast, direct, friendly and with a good knowledge. For our company this is the way we want to work with softwarecompanys.",
+            "liked_most": "This no-code system makes it possible to bring - and keep - our services to our citizens at a higer level without the need of own developers. In case of need Betty Blocks is Always there to provide services when needed.",
+            "disliked_most": "the feeling that we have been for a long time the hostage of some great ICT-companys like Centric, and still are for some products. Now we know there is a different way....",
+            "advice": "know your own needs and make those needs understandable for your softwarepartners",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "Other...",
+                "PerfectView"
+            ],
+            "purchase_reasons": [
+                "Reduce time to market",
+                "Drive innovation",
+                "Improve supplier or partner relationships"
+            ],
+            "key_factors": [
+                "Strong customer focus",
+                "Product functionality and performance",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": "cloudversion",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Weekly",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/532066",
+            "date": "August 30, 2018",
+            "author_job": "Program and Portfolio Management",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Healthcare",
+            "company_size": "250M - 500M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Implementation was very easy because business needs and apps meet each other very fast.",
+            "summary": "A great drive to innovate and work towards citizen developers. Do what is necessary so we can create success stories. Product gives us the uppertunity to bring application closer to daily business in a corporate environment. ",
+            "liked_most": "It's hard to learn when you have no Programming conceptual knowlegde at all. When someone has more conceptual experience and as an good idea, you can create great things and accelorate innovation.",
+            "disliked_most": "Training/academy skills are sometimes outdated. So to learn de basic things is sometimes difficult. Moreover the dutch native language in training is not available. For future citizen developers in our organisation, that is a requirement.",
+            "advice": "Start small with your first apps an based on a business need. You deliver great results in business value.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Drive innovation",
+                "Improve business process outcomes"
+            ],
+            "key_factors": [
+                "Product roadmap and future vision",
+                "Product functionality and performance",
+                "Strong customer focus"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/532790",
+            "date": "August 31, 2018",
+            "author_job": "Sales and Marketing",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Fast implementation, low learning curve and easy to maintain",
+            "summary": "Betty Blocks provides a no-code platform that works really well for our existing and new clients to rapidly build their application in a way that's 6 - 10 times faster than our traditional way of developing applications. With this method our way of getting customer insights and develop and optimize accordingly fits great with this visual way of building an application with blocks. \n\nThe Blocks store provides a way to share blocks throughout the community. Something to think about here is a business model behind selling components/blocks. This way more features will be build and shared and it could guarantee a higher quality or standard.  \n\nOverall, we found no downsides so far and are completely satisfied with the way the platform developes.",
+            "liked_most": "- Developing or building without the needs of coding\n- The ease of use for endusers\n- The flexibility in terms of building interfaces and creating your own back-office model\n- License fee according to amount of used blocks, so easy to start small and grow bigger ",
+            "disliked_most": "- Missing a businessmodel behind the Blocks Store",
+            "advice": "This platform is suitable for you if you don't like long development cycles. It will make your live easier, will develop your app faster so you can gain insights of your market and endusers faster. If you want to focus on improving your way of working, speed and flexibility, Betty Blocks is your way to go.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Create internal/operational efficiencies",
+                "Reduce time to market",
+                "Drive innovation",
+                "Improve business process outcomes"
+            ],
+            "key_factors": [
+                "Product roadmap and future vision",
+                "Strong consulting partnership",
+                "Overall cost",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Weekly",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/528625",
+            "date": "August 23, 2018",
+            "author_job": "CIO",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Government",
+            "company_size": "50M - 250M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Quick development.",
+            "summary": "Development of the app was quick. Service and support excellent.\nImplementation difficult due to problems with the Apple appstore refusing our in-company app.",
+            "liked_most": "We have a policy to use standard software. and not to develop our own applications.\nThis platform is an excellent solution for using standard software but stil maintain the flexibility and customization of development.",
+            "disliked_most": "The platform licensing model is not very convenient for (Dutch) government organizations.",
+            "advice": "Start with a small case and gradually let it grow. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "Other...",
+                "Inspark"
+            ],
+            "purchase_reasons": [
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Product roadmap and future vision",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Company-wide",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/523490",
+            "date": "August 14, 2018",
+            "author_job": "Consultant",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "Gov't/PS/ED <5,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Partner collaboration",
+            "summary": "the quick responses and interaction with Betty Blocks result in a great collaboration. we work great together and they listen to our feedback",
+            "liked_most": "flexibility and ability to integate with external services",
+            "disliked_most": "simple bug fixes intent to take a while",
+            "advice": "better communication in case off bug fixes and feature (timeslines)",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "N/A",
+            "deployment_scale": " Departmental",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/530911",
+            "date": "August 28, 2018",
+            "author_job": "Sourcing, Procurement and Vendor Management",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Services",
+            "company_size": "50M - 250M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "New kid on the block that is emerging to become one of the leaders in no- low code market",
+            "summary": "Very energizing and young company that is rapidly expanding and quickly taking place in the market along with their competitors",
+            "liked_most": "Energetic and inspiring approach, delivering quick results.",
+            "disliked_most": "Platform still has plenty of areas where they could become even better.",
+            "advice": "Start small and expand from there on.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "OutSystems",
+                "Other...",
+                "Appian",
+                "Mendix"
+            ],
+            "purchase_reasons": [
+                "Other..."
+            ],
+            "key_factors": [
+                "Strong user community",
+                "Financial/organizational viability",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Departmental",
+            "time_used": null,
+            "usage_frequency": " Weekly",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/515633",
+            "date": "August 7, 2018",
+            "author_job": "Sales and Marketing",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Implementation brought value to the business within a couple of days.",
+            "summary": "Dutch local company, very flexible and I can always count on support. An great people working over there.",
+            "liked_most": "Fully webbased, very easy integrated with 3rd party software.",
+            "disliked_most": "Nothing to dislike.",
+            "advice": "When selecting a No-code/Low-code platform you value ease of use and easy integration. BettyBlocks is the platform to go.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation",
+                "Improve business process outcomes",
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Strong consulting partnership",
+                "Product roadmap and future vision",
+                "Strong customer focus"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Departmental",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/528701",
+            "date": "August 23, 2018",
+            "author_job": "COO",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Very easy to use.",
+            "summary": "It is a very fast and easy way to build applications. It helps us to unlock legacy systems for our customers and give their application(s) a modern look, feel and approach.. ",
+            "liked_most": "It is easy to learn and use.",
+            "disliked_most": "Time to start up the development environment",
+            "advice": "Go see a demo.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve customer relations/service",
+                "Create internal/operational efficiencies",
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Product functionality and performance",
+                "Pre-existing relationships"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Company-wide",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/531226",
+            "date": "August 29, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Government",
+            "company_size": "Gov't/PS/ED <5,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Implementation was based on an agile way of work",
+            "summary": "Good quality and price. Platform is accessible for everybody. Partners are widly available and users are satisfied and are working fine with the platform",
+            "liked_most": "good service. very easy product",
+            "disliked_most": "the costs",
+            "advice": "just try it",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Cost management"
+            ],
+            "key_factors": [
+                "Strong consulting partnership",
+                "Strong services expertise"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": "dont know",
+            "deployment_scale": " Departmental",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/404452",
+            "date": "December 14, 2017",
+            "author_job": "Applications",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Services",
+            "company_size": "50M - 250M USD",
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Easy Implementation, great customer service, platform can be slightly slow at times",
+            "summary": null,
+            "liked_most": "Easy to develop. Great team on hand to help",
+            "disliked_most": "The speed can be an issue",
+            "advice": "Ask for advice from the Bettyblocks team. They are very helpful and know the system well.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/393745",
+            "date": "November 28, 2017",
+            "author_job": "CEO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Most Beneficial Platform for Apps, Portals, Platforms, and Value-Chain Groups",
+            "summary": null,
+            "liked_most": "Price, Speed, & Quality, we get all three with Betty Blocks.",
+            "disliked_most": "They are just opening up the US market, and their social announcements are sometime in Dutch",
+            "advice": "This is a rapidly changing technology area, be prepared for constant changes, and the amount of cultural change these type of platforms cause is tremendous.  You can finish a whole platform in 90 days , but your organization may take 18 months to assimilate it.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/393687",
+            "date": "November 27, 2017",
+            "author_job": "CMO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Cross functional SaaS extensions, with rapid prototyping and integration capabilities",
+            "summary": null,
+            "liked_most": "Project payback on Betty Blocks was way ahead of any of the competitors. Having a purely browser based solution, made architecture and implementation extremely easy.",
+            "disliked_most": "Would prefer more out of the box integrations e.g. Google Authentication etc.",
+            "advice": "Develop a prototype on the platform and engage vendor to provide support to accelerate learning curve. While the learning curve for low code platforms (by definition a lot less) having the vendor guide you with best practices is the best approach.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/395516",
+            "date": "December 1, 2017",
+            "author_job": "CEO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Transportation",
+            "company_size": "<50M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "High quality of service, toolbox sufficient and growing",
+            "summary": null,
+            "liked_most": "The ability for white llable service and integrated accountancy.",
+            "disliked_most": "The fiscality of the service is still complex",
+            "advice": "With PaaS a client has to have a clear mid term (3 years) vision on scoping of the needed service. At the same time the client has to create an environment where the vendor can excelerate, so the vendor will be able using their skills and creativity. The input of the vendor is needed for creating an optimal service. Only then the mid term vision can be transformed into short term minimum viable product. Only then the mvp has a quality level which is ready to market (and create revenues).",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/395876",
+            "date": "December 4, 2017",
+            "author_job": "CIO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Education",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "bettyblocks helped us to understand our own business processes",
+            "summary": null,
+            "liked_most": "The involment of the team ogf bettyblocks and the funtional capbilities of the platform combined with the inovation vision of the applicayion development ",
+            "disliked_most": "The platform is extreme flexible so it can be a threat to the scope of the project. ",
+            "advice": "That you can use the bettyblocks platform strategical efficient  in you Business processes ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/394529",
+            "date": "November 29, 2017",
+            "author_job": "CEO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Growing companies have some pains, but they are highly responsive.",
+            "summary": null,
+            "liked_most": "Real-time updates / deployments. ",
+            "disliked_most": "We would like more visibility to the roadmap of their feature pipeline (not only the features we request but all of them). ",
+            "advice": "Start learning this platform now. or your competitors will.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/398897",
+            "date": "December 9, 2017",
+            "author_job": "CTO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Services",
+            "company_size": "50M - 250M USD",
+            "go_live_year": "2015"
+        },
+        "lesson_learned": {
+            "headline": "Very energetic, innovative and reliable partner",
+            "summary": null,
+            "liked_most": "high speed, flexibility and user exeprience ",
+            "disliked_most": "nothing",
+            "advice": "start from beginning with multiple developers to ensure improve continuity",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/394587",
+            "date": "November 29, 2017",
+            "author_job": "Consultant",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Government",
+            "company_size": "500M - 1B USD",
+            "go_live_year": "2015"
+        },
+        "lesson_learned": {
+            "headline": "Betty Blocks helps us to develop innovative applications fast with less costs.",
+            "summary": null,
+            "liked_most": "The possibility to develop fast.",
+            "disliked_most": "I have no complaints at this moment.",
+            "advice": "Start with a proof of concept and market the Poc to the future users of the application.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/396930",
+            "date": "December 11, 2017",
+            "author_job": "CIO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Media",
+            "company_size": "<50M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "In a relatively short time a great result.",
+            "summary": null,
+            "liked_most": "Quick reaction on our requests.",
+            "disliked_most": null,
+            "advice": "After the first demo of the product: rethink your userstories. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    }
+]

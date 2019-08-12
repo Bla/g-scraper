@@ -1,0 +1,4060 @@
+[
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/505573",
+            "date": "July 20, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Government",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Going mode 2 with Mendix",
+            "summary": "This year our company has started experimenting with Gartner Mode 2. With Mendix we did not only get a great development suite. But also great support to get our company ready to execute business value. For me it was the first time a company brings a customer success manager. Great experience. Seven months later we got exciting product owners with apps. We already started making reusable widgets, UI/UX reuse over all apps and a developers community is being formed.",
+            "liked_most": "The product release rate. New improved functionality keeps on coming.",
+            "disliked_most": "Everything seems to be possible. So be aware there still is a benefit for just buying some great custom of the shelf software.",
+            "advice": "Be aware this is not just an app platform. It is a way of getting things done. Start with a small exiting team. Make small apps with high value. Then slowly take it to the next level. \nVisit other customers to learn from each other. \n",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation",
+                "Reduce time to market",
+                "Improve business process agility",
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Pre-existing relationships"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "7.14 / 7.16",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Weekly",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/479467",
+            "date": "July 12, 2018",
+            "author_job": "CTO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Finance",
+            "company_size": "250M - 500M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "The overall experience with Mendix as tool and vendor is great",
+            "summary": "The customer is the central point in the Mendix way of working. The response times on request are above expectations, the customer succes manager is helping you with problems, solutions and is really thinking from the customer point of view in stead of a selling point of view.\nThe platform roadmap is clear and everytime there are exciting new things besides the things you expect.\nEven contract negotation was a joint effert without any hidden agenda's. ",
+            "liked_most": "After an online course you're able to build your own simple apps. Mendix has build a new abstraction layer on the complexity of development and operations.",
+            "disliked_most": "It isn't really disliking but the ease of use can lead to less reuse of business functionality. A good architecture governence needs to be in place.",
+            "advice": "It isn't only bying atool but also the introduction of the agile way of working. Make sure that people are trained and the roles and rersponsibilities are clear. Hire an expirienced scrum master to lead the first developmetns.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process outcomes",
+                "Drive innovation",
+                "Reduce time to market",
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Strong customer focus",
+                "Breadth of services",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": "a wide range from 5.18 till 7.11",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/521458",
+            "date": "August 13, 2018",
+            "author_job": "Consultant",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "A low-code development platform that is focussed on delivering business value",
+            "summary": "I was first introduced to Mendix in 2009 and have been working fulltime on Mendix projects since 2015. Since the introduction, the platform it has seen an incredible growth in functionality and maturity. My clients especially love the speed of development and the great deployment platform.\nMendix has a great developer network and a great app store. You'll get a quick response to your questions and a lot of modules and widgets are available as building blocks. This ensures the speed of development.\nIt comes with requirement gathering tools out of the box which is suitable for smaller organizations. Larger organizations generally rely on their own tools to gather requirements (IE Jira).",
+            "liked_most": "The ease of development and the availability of building blocks in the app store.",
+            "disliked_most": "Sometimes a Mendix modeler version is released too quickly. It would be great you could always use the latest version of the modeler available without having to worry for bugs.",
+            "advice": "Try out the platform. A free tier is available as well as a free academy to get you started. Then you'll be able to see for yourself what the platform can bring for your organization.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve customer relations/service",
+                "Improve business process outcomes",
+                "Drive revenue growth",
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Strong user community",
+                "Strong customer focus",
+                "Strong services expertise",
+                "Overall cost"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": "Worked with 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": "6.10.10, 7.9.0",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/510865",
+            "date": "July 31, 2018",
+            "author_job": "Customer Experience Leader",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Daunting at first but we had a great experience creating our What Matters Most application",
+            "summary": "I have found Mendix to be very professional and great to work with. They have been patient, supportive and very knowledgeable in helping us create our first Mendix application. The online training, user guides and Forum has been brilliant to use and the knowledge within the team continues to grow. \nWhere we did experience issues Nick and his team were quick to help and stayed in contact until the issue was resolved. ",
+            "liked_most": "Once you understand the logic of the application it is quite easy to use. I do not have any coding skills at all, I do understand the basics of java, but that's all. By using the training videos and the support of Sebastiaan we managed to build, test and deploy an app within 4-5 weeks. For me the Forum and community is a fantastic tool to help find new ideas and solutions to issues I have come across during the build.",
+            "disliked_most": "Being honest I have not found anything I dont like about the service or App...",
+            "advice": "Take your time, go thorough the videos and guides, and go through them again. Never stop learning. Use the forum as there is so much knowledge and experience there.  \nMake sure you have an agreed scope of what you are building as it is so easy to go of track and build something exciting, which may not be needed by the business or user....",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "Other...",
+                "Out systems Common time"
+            ],
+            "purchase_reasons": [
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "7.16",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/512038",
+            "date": "August 1, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Manufacturing",
+            "company_size": "30B + USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Puts the fun back into Application Development",
+            "summary": "I think the product is first rate. Very easy to create good looking, usable, mobile applications for our business. The support from Mendix in getting us up and running has also been excellent - very attentive.",
+            "liked_most": "The output. The bootstrap front end delivers a very professional looking interface for the customer with minimal effort.",
+            "disliked_most": "The on-line help could be better for complete novices. There are lots of answers to questions but many of them assume you already know what you are doing and more step by step guides would be nice.",
+            "advice": "The domain model is everything. You need to get your entity design correct - everything else then falls into place",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Drive innovation",
+                "Improve business process outcomes"
+            ],
+            "key_factors": [
+                "Overall cost",
+                "Strong consulting partnership",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "7.16.0",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/518699",
+            "date": "August 9, 2018",
+            "author_job": "Sales and Marketing",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Manufacturing",
+            "company_size": "30B + USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Easy implementation, benchmark training and great community",
+            "summary": "As a Business Consulting Manager I always like to integrate deep dives into our solutions during my daily tasks. When we acquired Mendix I took a few hours to learn the basics. In record time I was able to build my first apps, connect to other applications and more. I am very enthusiastic to add Mendix to my technical and storytelling repertoire.",
+            "liked_most": "acccesibility, training material quality, community, nearly no bug fixing required, having a coding entry point for young people ",
+            "disliked_most": "Have not found a thing so far.",
+            "advice": "Try it yourself! You will have a new software up and running afterward.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "Other...",
+                "NA"
+            ],
+            "purchase_reasons": [
+                "Drive innovation",
+                "Reduce time to market",
+                "Improve business process agility"
+            ],
+            "key_factors": [
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Completely internal"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Other",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/503755",
+            "date": "July 18, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Construction",
+            "company_size": "Gov't/PS/ED <5,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Easy to start, good support. Low code development.",
+            "summary": "You're up and running within minutes. If you have some experience in application development you can build your app in a day!\nI like the active developer community. There is an online forum and app store.\nNew versions of the product are being released every month, therefore the platform continues to be improved.",
+            "liked_most": "With some development experience, you're creating apps in no time!",
+            "disliked_most": "Difficult to manage custom Java libraries",
+            "advice": "Start small and go to the online developers community for help and more information",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": "5, 6 and 7",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/522470",
+            "date": "August 14, 2018",
+            "author_job": "CTO",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Great that it's foundation is rooted on Information Engineering...",
+            "summary": "If you are a fan of Information Engineering back in the days of Clive Finkelstein and James Martin like me, then you'd really appreciate working with Mendix.  Not only does it speed up application development, but it also gives your application a sound data and process model using principles of Information Engineering.\n\nI've heard so much about Agile, I've tried implementing it using tools like Trello and the like, but those tools doesn't \"force\" you to adhere to the practice so you and your team end up missing the essence of Agile.  But with Mendix' Team Server, everything it knit together so that your workflow is guided by and \"governed\" by Agile principles.\n\nOnly thing I don't like about it is the old Windows UI.  How I wish they'd port the Desktop Modeller to OS X.  ",
+            "liked_most": "Modelling is rooted from Information Engineering principles.",
+            "disliked_most": "The Desktop Modeller doesn't run on OSX.",
+            "advice": "With a good business analyst, you'd probably spend less in automating your business processes.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Completely internal"
+        },
+        "additional_context": {
+            "version_number": "7.16",
+            "deployment_scale": " Team/ Individual",
+            "time_used": null,
+            "usage_frequency": " Monthly",
+            "deployment_region": [
+                "North America",
+                "Asia/Pacific"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/513374",
+            "date": "August 2, 2018",
+            "author_job": "CIO",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Energy and Utilities",
+            "company_size": "1B - 3B USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Rapid deployment and get results fast.",
+            "summary": "The product is at the heart of our digital delivery and has accelerated our speed to market for new channels.  The sales process felt good, but there were occasions when there could have been greater transparency in TCO.  The overall job market is not saturated with experienced developers, however, it is an easy transition from traditional programming techniques.",
+            "liked_most": "Ease of integration.",
+            "disliked_most": "Access to skilled resources.",
+            "advice": "For heavily integrated environments ensure you have a mature 'integration layer' with API's to take full advantage of the toolset.  If not you can only enhance/extend existing ERP's at the speed of your API development.  Not an issue, but need to be aware.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation",
+                "Reduce time to market",
+                "Drive revenue growth",
+                "Improve customer relations/service",
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Product functionality and performance",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/510461",
+            "date": "August 2, 2018",
+            "author_job": "Analyst",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Full partnership approach ensured business benefits were delivered in a matter of weeks!",
+            "summary": "Knowledge from the organisation into their product capability is second to none!\nThe biggest benefit from the provider is their clear understanding of our scope and partnership approach to meeting the intended business benefits",
+            "liked_most": "The ability to build and test solutions rapidly allows the end user to find ways to keep constantly improve and adapt the solutions to meet their specific requirements",
+            "disliked_most": "There is still a need for technical expertise to meet the requirements",
+            "advice": "Define, Define, Define your requirements. Do not go in saying you need an \"App\" without a clear direction as to what you want to achieve. Only then does this become rapid. Building the app took weeks Define the requirement takes months!",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process outcomes",
+                "Drive innovation",
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Strong services expertise",
+                "Product roadmap and future vision",
+                "Strong consulting partnership",
+                "Strong customer focus",
+                "Overall cost",
+                "Strong user community"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "9 - 12 months (<12)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "16.1",
+            "deployment_scale": " Team/ Individual",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/563854",
+            "date": "October 9, 2018",
+            "author_job": "Applications",
+            "review_source": "Referred (colleague, friend, peer)",
+            "industry": "Finance",
+            "company_size": "250M - 500M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Create applications faster",
+            "summary": "The high productivity of Mendix aPaaS provides a comprehensive and integrated set of tools and services to support companies throughout the life cycle of the application, from ideation and development to implementation and operation.",
+            "liked_most": "providing a shared development collaborative tool among developers, business analysts and end users.\n\nOf the things we like most about Mendix are the following:\n\nIntegrated environment that covers the entire life cycle of the application\nRapid visual development with user feedback capture\nUse of standards to call our digital platform services\nDevelopment and maintenance of the Apps understandable by users and analysts\nFacilitates the use of agile development methodologies\nAccess to pre-configured components and to a community of developers\nDevelopment of Apps for Desktop, Tablet and Mobile in a single environment",
+            "disliked_most": "At first it looked a bit frightening after they started interacting and getting to know the client's business, things flowed better.",
+            "advice": "In this world of change and everything points to innovation, to the unimaginable, companies like this help you plazmar all those ideas that at some point could be seen as exaggerated, consult your client portfolio and then decide on the best in terms of functionality and cost we refer to.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Cost management",
+                "Improve business process outcomes",
+                "Enhance decision making",
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Product functionality and performance",
+                "Financial/organizational viability",
+                "Breadth of services",
+                "Overall cost"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "12 months or more",
+            "implementation_strategy": "Completely internal"
+        },
+        "additional_context": {
+            "version_number": "I dont know it...",
+            "deployment_scale": " Company-wide",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Latin America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/510352",
+            "date": "July 30, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Healthcare",
+            "company_size": "50M - 250M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Excellent low code application",
+            "summary": "Working with the Mendix platform has allowed us to create brilliant application that can be used in almost any part of the company. The beauty of Mendix is that you can do both Design and Development without needing extensive knowledge of coding, this means the development takes considerably less time and uses less resource. The AGILE working method used is simple to follow and allows you to easily structure the development of your application. \nAlong with a great platform they have an extensive community which is on hand to help, as well as great reference documentation that allows you to easily read information about a certain feature. \n",
+            "liked_most": "The platform itself; layed out in a way that is easy to use and customisation options that allow you to tailor the working environment exactly how you need. ",
+            "disliked_most": "I have not yet find anything I dislike, sometimes it proved difficult to set something up, but it doesn't take long to research it or ask on the forums. ",
+            "advice": "Take the time to define the requirements for your application and lay them out in the stories. Also take the time so learn how to build the application, using the Mendix Academy and forums. I found the best way was to learn by doing. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Reduce time to market",
+                "Improve compliance & risk management"
+            ],
+            "key_factors": [
+                "Strong customer focus",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "7.16.0",
+            "deployment_scale": " Departmental",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/512046",
+            "date": "August 1, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Energy and Utilities",
+            "company_size": "1B - 3B USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Speed, reliability and delivery",
+            "summary": "The Mendix team provides an incredible level of support and engagement.\nThey are always willing to go the extra mile to complement the excellent platform functionality.",
+            "liked_most": "Mendix is easy to learn, even for non-developers. It allows business to interact and collaborate during the development process.\nRequirements easily become reality.",
+            "disliked_most": "The licensing model can be a bit troublesome when fully integrated in a SSO or domain environment.",
+            "advice": "The fast delivery can reduce the usage of the platform to quick tactical solutions, however this product is capable of delivering much more, so a careful plan and future prospects is necessary to fully realize the potential.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Drive innovation",
+                "Improve compliance & risk management",
+                "Create internal/operational efficiencies",
+                "Improve business process outcomes",
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Product functionality and performance",
+                "Product roadmap and future vision",
+                "Strong services expertise",
+                "Strong consulting partnership",
+                "Strong user community"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "7.5 and 7.16",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/503526",
+            "date": "July 17, 2018",
+            "author_job": "CTO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Manufacturing",
+            "company_size": "250M - 500M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Product is great but finding reasonably priced service partners is not easy.",
+            "summary": "Have focus on customers and they do try to help. Sometimes, it is not easy to trust them as advisor as they lack the broad industry experience.",
+            "liked_most": "Easy to develop and deploy solutions.",
+            "disliked_most": "Skills you need for development are still hard to find.",
+            "advice": "If you are expecting complexity of the application to grow, be sure to check if it Mendix can still be the right solution. Check out other products, see they fit in your landscape better. This space is becoming crowded.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process outcomes",
+                "Improve customer relations/service",
+                "Create internal/operational efficiencies",
+                "Drive innovation",
+                "Enhance decision making"
+            ],
+            "key_factors": [
+                "Financial/organizational viability",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "6 - 9 months (<9)",
+            "implementation_strategy": "Worked with 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/498183",
+            "date": "July 4, 2018",
+            "author_job": "Applications",
+            "review_source": "Self directed (Gartner.com, search, ad/promo)",
+            "industry": "Finance",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Provides a good understanding of rapid app development and handout tools to create them",
+            "summary": "Mendix provides a suitable platform for users who don't have a lot of experience coding of developing applications. Within our organization the cloud platform provides a steady stream of releases within a normally sluggish change process.\n\nOverall i'm very satisfied about the application in my day to day work",
+            "liked_most": "The way the application lets you buil pre set pages, and gives you an overall understanding of creating a application",
+            "disliked_most": "The way it is presented to the outside world. Not everyone is capable of creating an out of the box app. This will take some time to do it properly",
+            "advice": "See comment above. take your time and follow the free courses",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "Other...",
+                "none"
+            ],
+            "purchase_reasons": [
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Strong services expertise",
+                "Strong customer focus",
+                "Product functionality and performance",
+                "Other..."
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "6 - 9 months (<9)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "7.10.0",
+            "deployment_scale": " Departmental",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/507899",
+            "date": "July 25, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Finance",
+            "company_size": "50M - 250M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Mendix is a great Low Code development platform",
+            "summary": "Mendix is a great platform for Low Code development.  Some of the challenges were from early adoption of the software and pushing the limits on design.",
+            "liked_most": "Good product with a large community support group.",
+            "disliked_most": "There are a bunch of release versions/updates.  There were times where the releases broke previous working functionality.",
+            "advice": "Take the online tutorials.  Use the Mendix Community for Support.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "9 - 12 months (<12)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "6.5 and 7.9",
+            "deployment_scale": " Company-wide",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/525095",
+            "date": "August 16, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Manufacturing",
+            "company_size": "500M - 1B USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Great rapid development platform, enabling digital transformation and greater agility",
+            "summary": "+Easy to pickup and learn +Easily extended with a small amount of Java effort +Great ability to integrate with external systems\n-App portability to new versions can be tricky",
+            "liked_most": "Able to iterate very quickly on projects from idea to production. Visual modeling makes development FAST!",
+            "disliked_most": "Reliance on some appstore modules/widgets for important features (i.e. email). Changing versions can leave your modules/widgets in an incompatible state",
+            "advice": "Plan your sprints carefully. Failing to properly implement Agile methodology could mean big delays in Sprint completion as you realize you have to do hours of more work because you missed a key piece of business functionality",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "6 - 9 months (<9)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "6.10.13, 7.14",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Asia/Pacific",
+                "North America",
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/499306",
+            "date": "July 9, 2018",
+            "author_job": "R&D/Product Development",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Government",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Great platform, especially for less experienced developers",
+            "summary": "Mendix is such a great and simple platform to use. It's lacking in certain areas (such as creating documents) but all in all is a fabulous platform, especially for people who have less experience in digital development.",
+            "liked_most": "So simple to use, very quick.",
+            "disliked_most": "I can't really fault it.",
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "Other...",
+                "I don't know"
+            ],
+            "purchase_reasons": [
+                "Other..."
+            ],
+            "key_factors": [
+                "Other..."
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": "Don't know"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/441322",
+            "date": "August 21, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "10B - 30B USD",
+            "go_live_year": "Don't know"
+        },
+        "lesson_learned": {
+            "headline": "Nice software",
+            "summary": null,
+            "liked_most": "Easy and fast development.",
+            "disliked_most": "nothing yet",
+            "advice": "Invest time in creating a good domain model.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Strong customer focus",
+                "Overall cost",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "6.5.1.",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/547600",
+            "date": "September 21, 2018",
+            "author_job": "Applications",
+            "review_source": "Self directed (Gartner.com, search, ad/promo)",
+            "industry": "Education",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Excited to get started with all my App ideas",
+            "summary": "This platform has been interesting so far.  It is igniting my sense of possibilities.  I cant wait to dive in and take fully advantage of all of its functionalities ",
+            "liked_most": "The functionality and drag and drop capabilities ",
+            "disliked_most": "The Academy training ",
+            "advice": "Just dive in ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Cost management",
+                "Drive innovation",
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Product functionality and performance",
+                "Product roadmap and future vision",
+                "Overall cost",
+                "Strong customer focus"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": "Completely internal"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Don't know",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/497949",
+            "date": "July 3, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Finance",
+            "company_size": "30B + USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Able to create professional looking applications quickly and with relative ease",
+            "summary": "When I first joined  I had little knowledge of Mendix but due to its wonderful tutorials and easy to use modeler I found myself making apps in no time. As part of my role I am required to take business requirements and implement them into an app. Mendix facilitates this very well. They are also very quick to respond to issues and queries that I, or my team, have. ",
+            "liked_most": "Ability to quickly create and deploy apps",
+            "disliked_most": "No dark theme on the modeler",
+            "advice": "Use Mendix to facilitate an agile work environment ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Create internal/operational efficiencies",
+                "Improve business process outcomes",
+                "Drive innovation",
+                "Reduce time to market",
+                "Cost management"
+            ],
+            "key_factors": [
+                "Strong services expertise",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": "Don't know"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Departmental",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/479458",
+            "date": "May 29, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "50M - 250M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Development is easy, but maintaining architecture is hard.",
+            "summary": "Excellent development velocity. However, it is very easy to develop application without any forethought. The platform lacks concepts available in other mainstream technologies, to enforce software (model) architecture. As the result, good architecture is product of experience and discipline. Given the lack of experienced Mendix developers, my experience is that it is harder than necessary to maintain architecture on Mendix platform. Consequences thereof include: higher maintenance costs, reduced scalability, etc.",
+            "liked_most": "Ease of development and deployment. Short time from building something and seeing it live. ",
+            "disliked_most": "No tools for controlling access to data and logic in modeller. It is very easy to access anything in model, even if those documents are not supposed to be used. It is very easy to change modules that should never be modified.\n\nMerge functionality needs update:\n- as-is: textual descriptions. wanted: visual dif\n- too many changes that have no meaning (e.g. automatic name refactoring, canvas coordinate changes of multiple actions, when user inserts a new action). These changes that have no execution semantics, obscure real changes that are created by developers , thus making peer review harder than needed.\n- revision details provide only a list of changed documents. I wish changes within those documents where also available.",
+            "advice": "Do not treat Mendix projects as if they do not require technical expertise. Doing so leads fast to creating a technical debt. A paradox: the platform often used to get rid of legacy applications may produce (in naive hands) applications that rather quickly become legacy themselves.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "6.x, 7.x",
+            "deployment_scale": " Organization-wide",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/489720",
+            "date": "June 18, 2018",
+            "author_job": "Consultant",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Mendix helps me avoiding interpretation errors because i can build my own designs.",
+            "summary": "Mendix development realy speeds up my work as a Business Analyst. In the past is was used to write designs for software developers. Mendix gives me the opportunity to implement my designs in software myself.",
+            "liked_most": "Mendix enables creating professional web applications with a very small team of experts. This is possible because of a very good development environment, combined with easy deployment.",
+            "disliked_most": "when an upgrade of the product containts previously repaired bugs",
+            "advice": "lowcode means developers can work fast, it does nog mean you don't need technically skilled personel",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": "Completely internal"
+        },
+        "additional_context": {
+            "version_number": "7.15.1",
+            "deployment_scale": " Company-wide",
+            "time_used": null,
+            "usage_frequency": " Weekly",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/479559",
+            "date": "May 29, 2018",
+            "author_job": "CIO",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Energy and Utilities",
+            "company_size": "1B - 3B USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "exxxtreme fast programming suite for mainly front-end and process applications",
+            "summary": "Mendix is fast and dynamic . \nThe platform keeps evolving in monthly improvements of the modeler.\nIt integrates very smooth both rest Soap and other services.\nIt supports future way of software development, e.g. sprinter and real time collaboration. \nBesides new apps also 'older'existing MendixV1 (dated 2010) application are relatively easy to migrate towards current version 7 . ",
+            "liked_most": "Ease of implementation.\nNew features in modeler.\nUnderstanding while building and communicate/interact with business and developer",
+            "disliked_most": "it is still software, so architecture and business involvement is important.\nalso it is so fast that sometime the do before think mentality bits you in the back.",
+            "advice": "use a good partner, have a architecture roadmap/vision.\nfail fast ! ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Strong consulting partnership",
+                "Product functionality and performance",
+                "Strong customer focus"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "12 months or more",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": "6.10",
+            "deployment_scale": " Organization-wide",
+            "time_used": null,
+            "usage_frequency": " Weekly",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/479474",
+            "date": "May 29, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "30B + USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Starting the digital transformation with Mendix",
+            "summary": "Our business was extremely please by seeing the results of working with Mendix, especially on the reduced timespan of building an application.",
+            "liked_most": "Flexibility in terms of customization (both front- and backend), and overall ease of use.",
+            "disliked_most": "Building heavy applications can have an impact on performance. Some features with regards to health monitoring are not yet very mature (i believe they are being worked on). Offline capabilities were limited, but will improve with the introduction of nanoflows. We had some issues with responsiveness in the past, but these seem to have solved. Also i expect with the introduction of React Native, and the introduction of native apps, a lot of these issues will improve.",
+            "advice": "Start with small use cases (preferably low-complexity, high benefits type projects), but always keep the end-goal in mind. This way, if an early MVP proves to be succesful, you can build on your MVP and know it will be stable and robust when you start scaling or expanding functionality. Otherwise you risk having to rebuild your entire MVP, which can cause disappointment with the business and can mean extra costs and development times. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": "6.9, 6.10, 7.8, 7.10, 7.13",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "North America",
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/529391",
+            "date": "August 24, 2018",
+            "author_job": "Analyst",
+            "review_source": "Other ",
+            "industry": "Media",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Easy to quickly implement fully functional applications",
+            "summary": "The product is very easy to use and produces fast results, little or no programming background is required",
+            "liked_most": "Very easy to use ",
+            "disliked_most": "Nothing so far",
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": "Don't know"
+        },
+        "additional_context": {
+            "version_number": "7",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Weekly",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/479450",
+            "date": "May 29, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Government",
+            "company_size": "3B - 10B USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Easy creating apps; hard to sell in the organisation; unknown is unliked",
+            "summary": "Very easy to use platform, integration with old infrastructure and organisation is a challenge. Mendix people are very knowledgeable and helpful.",
+            "liked_most": "Ease of use; multiple apps being created simultaneously.",
+            "disliked_most": "Integration option options to older infrastructure components.",
+            "advice": "Try it and persivere",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Reduce time to market",
+                "Create internal/operational efficiencies",
+                "Improve business process outcomes",
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Strong customer focus",
+                "Pre-existing relationships",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": "7.13.1",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/479432",
+            "date": "May 29, 2018",
+            "author_job": "Applications",
+            "review_source": "Other",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Mendix, an easy to learn platform.",
+            "summary": "Mendix is an easy to learn platform that lets you quickly create apps. It is easy to understand for business and developers and therefor makes it easy to collaborate between business units. Mendix is also constantly innovating which makes it relevant through time. As a developer I am motivated to improve my skills and help businesses. ",
+            "liked_most": "That is it easy to implement and to learn. It is quick and easy to understand for both business and IT.",
+            "disliked_most": "That you have to update the modeler and keep your app updated.",
+            "advice": "Start with a small app and have a good idea of what you want in the app. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "Other...",
+                "I dont know. "
+            ],
+            "purchase_reasons": [
+                "Other..."
+            ],
+            "key_factors": [
+                "Overall cost",
+                "Breadth of services",
+                "Pre-existing relationships",
+                "Strong customer focus",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "9 - 12 months (<12)",
+            "implementation_strategy": "Don't know"
+        },
+        "additional_context": {
+            "version_number": "multiple, > 6.10.10",
+            "deployment_scale": " Organization-wide",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/527146",
+            "date": "August 21, 2018",
+            "author_job": "Sourcing, Procurement and Vendor Management",
+            "review_source": "Self directed (Gartner.com, search, ad/promo)",
+            "industry": "Energy and Utilities",
+            "company_size": "30B + USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "GOOD",
+            "summary": "It was amazing experince as it was fisrt time i try to creaty my app, sure will explore more to create useful apps",
+            "liked_most": "Ease of Use",
+            "disliked_most": "Nothing",
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "9 - 12 months (<12)",
+            "implementation_strategy": "Completely internal"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Team/ Individual",
+            "time_used": null,
+            "usage_frequency": " Monthly",
+            "deployment_region": [
+                "Asia/Pacific"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/470935",
+            "date": "May 10, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "250M - 500M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Rapid development, Large support community, Robust UI/UX control, hybrid mobile apps",
+            "summary": "I have been working with Mendix for many years. The platform provides a unique ability to develop apps rapidly from the ground up with little coding involved. Ideas can be turned into working programs in hours or weeks. The quality of tools and support provided by Mendix has grown over the years (along with the community). There are now an abundance of technical docs, an ever growing forum community, and a robust collection of learning resources and expert webinars available online. The employers I worked with ranged from having no in-house IT experience (all contracted out) to having an in-house software development team of about 20 people. In ever instance, Mendix served a purpose for the employer. On one hand it allowed quicker turnaround of features than allowed by the traditional team, and on the other hand it allowed for in-house software development capability with relatively low cost. Mendix will generally have a purpose based on your organization's needs.",
+            "liked_most": "Ease of use.",
+            "disliked_most": "Many years ago, it was the availability of documentation and online resources. Since then the community has grown and the availability of documentation and learning resources has also grown tremendously.",
+            "advice": "Adopt Mendix fully and use it as a tool to solve problems. When learning, learn Mendix as a pure form with a diverse group of folks (diverse in software development experience).",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Cost management",
+                "Reduce time to market",
+                "Drive revenue growth",
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Product roadmap and future vision",
+                "Strong user community",
+                "Strong services expertise",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "6.10.12, 7.13.1, 7.14",
+            "deployment_scale": " Organization-wide",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/472203",
+            "date": "May 16, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Transportation",
+            "company_size": "Gov't/PS/ED <5,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "A quite extensive software building platform, which also accepts ideas for improvement",
+            "summary": "It's quite easy to learn though hard to master as they say. On the platform (website) there's an academy to teach basic skills in addition to the courses the company provides. The modeler itself is constantly being updated, which is handy for it's new functions, though you might run into conflicts if you update your project without thinking. Logic is easy to apply in your project as well as validation and custom error messages.",
+            "liked_most": "The modeler itself is free and you can build your own apps (though with limited users and limited space) also for free. This makes it easy to try out and learn it without being shackled to it immediately. When you decide to implement professional apps the mendix platform makes it very easy to deploy in a cloud environment. Building in the modeler itself is quite intuitive as well once you gather a bit more experience.",
+            "disliked_most": "The documentation on functions of the platform has quite restricted search words, making some information hard to find. For example: xpath function reversed() can be found when you know it is used for selfreference, but not by simply looking for reversed in documentation.",
+            "advice": "First try out the free modeler using the online academy, which will give you an idea of the speed of application building.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": "Worked with 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": "7.10",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/496850",
+            "date": "June 29, 2018",
+            "author_job": "R&D/Product Development",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Energy and Utilities",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Best experience with a low code development tool",
+            "summary": "Mendix is a low code development tool where we can develop and deliver the applications at less time.",
+            "liked_most": "good documentation is available for the latest releases",
+            "disliked_most": "None",
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve customer relations/service",
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Strong customer focus",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/479393",
+            "date": "May 29, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Manufacturing",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Implementation is easy thanks to good guidance of Mendix",
+            "summary": "We built the first app together with Mendix to learn on the job and get experience. We also have frequent contact with the Mendix success manager to discuss open issues and to get advice",
+            "liked_most": "Easy to use. Lowcoding, but where needed additional coding is still possible.",
+            "disliked_most": "On some areas there are some limitations, for which external products are necessary. Performance is sometimes an issue.",
+            "advice": "No comment.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market",
+                "Improve business process agility",
+                "Improve compliance & risk management",
+                "Drive innovation",
+                "Improve business process outcomes"
+            ],
+            "key_factors": [
+                "Strong consulting partnership",
+                "Product roadmap and future vision",
+                "Strong user community"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": "several versions between 6.10.5 and 7.14",
+            "deployment_scale": " Organization-wide",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "North America",
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/496837",
+            "date": "June 29, 2018",
+            "author_job": "R&D/Product Development",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Energy and Utilities",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Modelling with Mendix is great.",
+            "summary": "Working in mendix is awesome when compared to traditional programming languages writing 1000's of lines of code.",
+            "liked_most": "Drag and drop to build applications.",
+            "disliked_most": "Mendix modeler version release every month or 2.",
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process outcomes",
+                "Improve business process agility"
+            ],
+            "key_factors": [
+                "Product roadmap and future vision",
+                "Strong user community",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "7.14.1",
+            "deployment_scale": " Departmental",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/479423",
+            "date": "May 29, 2018",
+            "author_job": "Applications",
+            "review_source": "Other",
+            "industry": "Finance",
+            "company_size": "10B - 30B USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Buildings apps was easy, implement the full platform came with more challenges",
+            "summary": "The functionality and usability of the platform, what is brings for your enterprise is amazing. However for large enterprises the vendor is still in a growing face",
+            "liked_most": "It really brings what it tells you. Developing apps in weeks instead of months",
+            "disliked_most": "The potential challenge which you can face when your building apps for large user groups or the infra to arrange yourself",
+            "advice": "Start doing and learn from others",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "6 - 9 months (<9)",
+            "implementation_strategy": "Completely internal"
+        },
+        "additional_context": {
+            "version_number": "7.7.1, 7.9,7.13",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/473876",
+            "date": "May 16, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "50M - 250M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Mendix Review",
+            "summary": "Overall, Mendix is quite a remarkable platform. It has made huge improvements since I began working with it in 2013. They continually enhance the product with new features that enable faster builds and deployments all while improving the UI/X experience for the end users. Will continue to work with Mendix for many years to come! ",
+            "liked_most": "The speed in which we can build and deploy. We are often waiting on the Business rather than the Business waiting on us to build. ",
+            "disliked_most": "The learning curve for new developers can be difficult.",
+            "advice": "Continue to enhance and improve the training, webinairs, and documentation! ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": "Don't know"
+        },
+        "additional_context": {
+            "version_number": "6.10.12 & 7.13.1",
+            "deployment_scale": " Organization-wide",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/479449",
+            "date": "May 29, 2018",
+            "author_job": "System Integrator",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "Gov't/PS/ED <5,000 Employees",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Great platform to build apps for my orginisation",
+            "summary": "Platform where you can quickly build apps. Very broad standard features and you can do everything yourself in the Mendix cloud.",
+            "liked_most": "The total integration from development to deployment and maintaince in one cloud environment. That is what it makes it very easy and quick to develop apps.",
+            "disliked_most": "Sometimes sprintr is down",
+            "advice": "Just use it!",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "7.5 - 7.14",
+            "deployment_scale": " Team/ Individual",
+            "time_used": null,
+            "usage_frequency": " Weekly",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/470259",
+            "date": "May 15, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "50M - 250M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Complete solution for ideation and experimenting with new business models",
+            "summary": "The whole platform is pretty much complete. It gives you lots of possibilities to develop apps without coding for different device simultaneously. Very useful for ideation and experimenting with new business models to engage with customers. Very easy to implement and deploy apps in cloud.",
+            "liked_most": "Does not require programming experienced people to work with platform.",
+            "disliked_most": "Limitations of native mobile apps.",
+            "advice": "Think of the people who will be using the platform as it is not designed for no low-code developers.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive revenue growth",
+                "Reduce time to market",
+                "Create internal/operational efficiencies",
+                "Improve customer relations/service",
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Strong customer focus",
+                "Strong services expertise"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "7.13.1",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/466513",
+            "date": "April 26, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Finance",
+            "company_size": "50M - 250M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Great tool for quickly developing applications",
+            "summary": "I have thoroughly enjoyed using Mendix as a development tool. Have made great improvements on the web based tutorials and has an active community.",
+            "liked_most": "Ease of use. After learning the basics of how Mendix works I was able to implement many features quickly. Support has been great. Very knowledgeable experts that want to make sure that you succeed. Constantly looking forward.",
+            "disliked_most": "Nothing major.",
+            "advice": "Engage in communication with current/former customers about their experience with the Mendix team. Dont be afraid to ask the community they are more than willing to help.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": "Worked with just the vendor"
+        },
+        "additional_context": {
+            "version_number": "6.9, 7.8",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/479575",
+            "date": "May 29, 2018",
+            "author_job": "Knowledge Specialist",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Transportation",
+            "company_size": "500M - 1B USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "Good platform for rapid application development",
+            "summary": "The platform works good and the people behind the platform are very commited and involved to bring the project to a succes.",
+            "liked_most": "the quick way to develop applications",
+            "disliked_most": "Integration can be made easier",
+            "advice": "Invest in inhouse development capabilities",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "Other...",
+                "Salesforce",
+                "Out systems"
+            ],
+            "purchase_reasons": [
+                "Reduce time to market",
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": "Worked with both the vendor and 3rd-party service providers"
+        },
+        "additional_context": {
+            "version_number": "i dont know",
+            "deployment_scale": " Specific divisions, regions, or business units",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/457427",
+            "date": "April 12, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Construction",
+            "company_size": "1B - 3B USD",
+            "go_live_year": "Don't know"
+        },
+        "lesson_learned": {
+            "headline": "Quick and easy implementation that meets the business's needs",
+            "summary": null,
+            "liked_most": "The intuitiveness of the client and the transparency of processes makes the modeler ideal for both simple and complicated projects.",
+            "disliked_most": "Limited styling options within the modeler itself - additional software is required for proper styling management.",
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation",
+                "Improve business process agility",
+                "Reduce time to market",
+                "Improve compliance & risk management"
+            ],
+            "key_factors": [
+                "Pre-existing relationships",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "6 - 9 months (<9)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "6.10.2, 6.10.3, 7.12.0",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/455101",
+            "date": "April 12, 2018",
+            "author_job": null,
+            "review_source": "Other",
+            "industry": "Services",
+            "company_size": null,
+            "go_live_year": "2015"
+        },
+        "lesson_learned": {
+            "headline": "Software is nice to work with from a beginner point of view to an expert level",
+            "summary": null,
+            "liked_most": "the support and willingness to comute",
+            "disliked_most": "that you cannot call a mendix app within a mendix app",
+            "advice": "Start making custom elements as soon as possible so also the front-end is modular like the rest of the software.\nThis way you have your own company feeling build in a rapid product tool!",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "Other...",
+                "I don't know"
+            ],
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Reduce time to market",
+                "Improve business process outcomes",
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Strong consulting partnership",
+                "Product roadmap and future vision",
+                "Overall cost",
+                "Product functionality and performance",
+                "Strong customer focus",
+                "Strong user community"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "5.20, 6.9.1, 6.10.3, 6.10.4, 6.10.7, 7.2.0, 7.9.0, 7.10.0, 7.11.0",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/455315",
+            "date": "April 4, 2018",
+            "author_job": "Consultant",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "2010 or earlier"
+        },
+        "lesson_learned": {
+            "headline": "Great tool for both the novice and experienced developer",
+            "summary": null,
+            "liked_most": "The easiness of use. ",
+            "disliked_most": "Error handling. But that's never fun ;)",
+            "advice": "Get certified quickly and make sure you implement Agile type of working in you working environment.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Improve customer relations/service",
+                "Reduce time to market",
+                "Improve business process outcomes",
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Financial/organizational viability",
+                "Strong customer focus",
+                "Product functionality and performance",
+                "Strong user community"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.13.1",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447181",
+            "date": "March 24, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "With Mendix I've switched gears for my IT capabilities",
+            "summary": null,
+            "liked_most": "High speed of delivery.\nSteep learning curve.\nSmall teams, great value. ",
+            "disliked_most": "One might consider the vendor lockin an issue. For shortlived customer facing apps, I don't see the big issue. For enterprise wide, core application servies it requires some strategic planning.",
+            "advice": "Give it a try on a non critical project. You'll be amazed how fast you can be really productive. And even if dissatisfied...you'll throwaway not more then a few days of work. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation",
+                "Improve customer relations/service"
+            ],
+            "key_factors": [
+                "Product roadmap and future vision",
+                "Overall cost",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.10 7.11 7.12",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/469209",
+            "date": "May 6, 2018",
+            "author_job": "CTO",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": null
+        },
+        "lesson_learned": {
+            "headline": "New way of software development.",
+            "summary": "It brought me a life as a new way of software development. I have been strongly recommending to my colleagues.",
+            "liked_most": "Data modeling and UI implementation.",
+            "disliked_most": "Nothing so far.",
+            "advice": "It is the best prototyping tool I've experienced.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": "Completely internal"
+        },
+        "additional_context": {
+            "version_number": "7.12.0",
+            "deployment_scale": " Team/ Individual",
+            "time_used": null,
+            "usage_frequency": " Daily",
+            "deployment_region": [
+                "Asia/Pacific"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/435467",
+            "date": "April 5, 2018",
+            "author_job": "Applications",
+            "review_source": "Other",
+            "industry": "Manufacturing",
+            "company_size": "50M - 250M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Great platform to create your business applications.",
+            "summary": null,
+            "liked_most": "The visual way of programming. ",
+            "disliked_most": null,
+            "advice": "In order to get the full advantage of Mendix, you need some experience in your organisation. Internally or externally. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation",
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Product functionality and performance",
+                "Strong customer focus"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "6 - 9 months (<9)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.7.1 and 7.11.0",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447637",
+            "date": "March 15, 2018",
+            "author_job": "System Integrator",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Education",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Steep learning curve, but plentiful support resources.",
+            "summary": null,
+            "liked_most": "Their ability to continue to expand and adapt to the needs and wants of end-users.",
+            "disliked_most": "The fact that upgrading is risky - some deep functionalities can be severely impacted by upgrading - while others can only be saved by upgrading.",
+            "advice": "Realize the amount of resources available for this platform in terms of knowledge - if you have an issue or a question; there is a very reasonable chance that someone else has - and has possibly found the answer in a user forum. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Other..."
+            ],
+            "key_factors": [
+                "Other..."
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447912",
+            "date": "March 16, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Education",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": "2014"
+        },
+        "lesson_learned": {
+            "headline": "Easy and fun to use.",
+            "summary": null,
+            "liked_most": "I have a great understanding of how the pieces and parts work together and I can quickly create and adjust microflows/pages on the fly based on customer needs. ",
+            "disliked_most": "There are some small quirks that occasionally make development inconvenient and you will have to get creative to solve a problem.",
+            "advice": "Don't be afraid to get your hands dirty. It's the best way to learn. Get in there an make mistakes. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve customer relations/service",
+                "Create internal/operational efficiencies",
+                "Improve business process agility",
+                "Improve business process outcomes"
+            ],
+            "key_factors": [
+                "Product functionality and performance",
+                "Financial/organizational viability",
+                "Overall cost"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.11",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/457278",
+            "date": "April 11, 2018",
+            "author_job": "Executive Management",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "2010 or earlier"
+        },
+        "lesson_learned": {
+            "headline": "Modern and smooth modeller to implement quickly and rock-solid",
+            "summary": null,
+            "liked_most": "Modern, easy to learn",
+            "disliked_most": "Webmodeller.",
+            "advice": "Start, try and see the results.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Create internal/operational efficiencies",
+                "Drive innovation",
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Product roadmap and future vision",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.13",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447220",
+            "date": "March 13, 2018",
+            "author_job": "Analyst",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Education",
+            "company_size": "Gov't/PS/ED 5,000 - 50,000 Employees",
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Very shallow learning curve got experienced and novice developers working immediately",
+            "summary": null,
+            "liked_most": "The speed at which we can deliver solutions.",
+            "disliked_most": "Merging conflicting changes delivered by different developers requires a more hands-on approach than traditional development. The merge tool is all-or-nothing so it requires the team to spend a little more time when conflicts arise. \nComing from a traditional development background, I've found myself stuck a few times on features Mendix does not support and therefore required a work-around or time spent developing a custom widget.",
+            "advice": "Make sure you spend time early in your project understanding the architecture of your potential solution and how it fits in Mendix's set of tools.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Drive innovation",
+                "Improve customer relations/service",
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Strong user community",
+                "Product functionality and performance",
+                "Strong consulting partnership"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.9, 7.12",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447216",
+            "date": "March 13, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Great platform with some learning curve.",
+            "summary": null,
+            "liked_most": "Flexibility. While many low code platforms are limited in exactly what you can do in the box, Mendix leverages java and javascript widgeting and a widget store to extend it's functionality and empower developers. ",
+            "disliked_most": "Domain model organization can be a pain. Many aspects of the application can be customized and organized but the domain model view can become incredibly cumbersome to navigate, specially for a model first framework. ",
+            "advice": "Have your developers get very comfortable with the IDE. The tutorial is a great introduction but actually developing some POCs to get your feet wet is a must before starting any estimates.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Other..."
+            ],
+            "key_factors": [
+                "Financial/organizational viability",
+                "Product roadmap and future vision",
+                "Product functionality and performance",
+                "Breadth of services"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "6.10",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/454687",
+            "date": "March 30, 2018",
+            "author_job": "CEO",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "Don't know"
+        },
+        "lesson_learned": {
+            "headline": "They put their money where their mouth is; quick development with a solid tool!",
+            "summary": null,
+            "liked_most": "The visual way in which the app can be constructed.",
+            "disliked_most": "Nothing",
+            "advice": "Nothing yet.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.13.1",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/455934",
+            "date": "April 6, 2018",
+            "author_job": "Infrastructure and Operations",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Using Mendix to drive Innovation",
+            "summary": null,
+            "liked_most": "Quick development. Fail fast learn fast",
+            "disliked_most": "N/A",
+            "advice": "Mendix is a good tool when used correctly.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.13.1",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/463066",
+            "date": "April 20, 2018",
+            "author_job": "Consultant",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Finance",
+            "company_size": "50M - 250M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Speed up your development but also keep in mind what you want to create",
+            "summary": null,
+            "liked_most": null,
+            "disliked_most": null,
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process outcomes",
+                "Drive innovation",
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.7.1",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447106",
+            "date": "March 13, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "Gov't/PS/ED <5,000 Employees",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Applications built and ready for Corporate Companies",
+            "summary": null,
+            "liked_most": "user friendliness and the package as a whole in one.",
+            "disliked_most": "Deviation from programming. I guess its worth it when you see the end product.",
+            "advice": "This platform adopts all functions and services of traditional programming and development. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Other..."
+            ],
+            "key_factors": [
+                "Breadth of services"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.7",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447217",
+            "date": "March 13, 2018",
+            "author_job": "Consultant",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "50M - 250M USD",
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Mendix offers a lot out of the box and continues to grow, but clients always want custom",
+            "summary": null,
+            "liked_most": null,
+            "disliked_most": null,
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Other..."
+            ],
+            "key_factors": [
+                "Other..."
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "6 - 9 months (<9)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "6.1 - 6.10",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/440874",
+            "date": "March 1, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "500M - 1B USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Fast Time To Market and Understandable by Most Users",
+            "summary": null,
+            "liked_most": "Integrated Development Environment w/ easy path to production readiness. ",
+            "disliked_most": "Lack of database access in the cloud production environment.",
+            "advice": "Don't try to shove Mendix into your existing development systems and methodologies. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation",
+                "Drive revenue growth",
+                "Improve business process agility",
+                "Improve business process outcomes",
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Strong consulting partnership",
+                "Product functionality and performance",
+                "Breadth of services"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.9 and 7.11",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/435120",
+            "date": "February 21, 2018",
+            "author_job": "Data and Analytics",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Finance",
+            "company_size": "500M - 1B USD",
+            "go_live_year": "Don't know"
+        },
+        "lesson_learned": {
+            "headline": "Lots of function.  Still learning how to best implement and communicate to stakeholders",
+            "summary": null,
+            "liked_most": "I like that there is a lot of support online and its easy to see your changes.  Version control is also nice for when working on a team.",
+            "disliked_most": "Some functions are not intuitive to people without a development background.  Don't have any suggestion for this though.",
+            "advice": "If possible have a team structure to develop.  It helps when new members join to have internal support.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve compliance & risk management",
+                "Improve business process agility",
+                "Improve business process outcomes",
+                "Enhance decision making",
+                "Drive innovation",
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Other..."
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "Multiple versions in use (5.19, 6.10.7)",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America",
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/440888",
+            "date": "March 1, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Finance",
+            "company_size": "1B - 3B USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Ease of development / reduced time to market gets complex with scale",
+            "summary": null,
+            "liked_most": "Excellent customer support",
+            "disliked_most": "None",
+            "advice": "Architecture and components are paramount. It is easier to build but might become a challenge with scale. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market",
+                "Improve business process outcomes",
+                "Drive innovation",
+                "Improve business process agility",
+                "Drive revenue growth"
+            ],
+            "key_factors": [
+                "Strong services expertise",
+                "Strong consulting partnership",
+                "Product roadmap and future vision",
+                "Product functionality and performance",
+                "Strong customer focus"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "6 - 9 months (<9)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.11",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/440892",
+            "date": "March 1, 2018",
+            "author_job": null,
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Manufacturing",
+            "company_size": null,
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Implementation has been easy. But will need to see what our maintenance path would be.",
+            "summary": null,
+            "liked_most": "Faster development and quick feedback loops",
+            "disliked_most": null,
+            "advice": "Medix is a great tool if you are going to go to market faster in some of the usecases",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market",
+                "Drive revenue growth"
+            ],
+            "key_factors": [
+                "Other...",
+                "Strong consulting partnership",
+                "Product roadmap and future vision",
+                "Product functionality and performance",
+                "Strong customer focus"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.12",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447093",
+            "date": "March 13, 2018",
+            "author_job": "Consultant",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Very easy to use through the development life cycle.",
+            "summary": null,
+            "liked_most": "Easy to use",
+            "disliked_most": "Could be slow",
+            "advice": "Get all stakeholders involved from the very beginning otherwise your product will not be fit for purpose.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve customer relations/service",
+                "Reduce time to market",
+                "Improve business process agility",
+                "Improve compliance & risk management",
+                "Enhance decision making",
+                "Drive innovation",
+                "Improve business process outcomes"
+            ],
+            "key_factors": [
+                "Strong services expertise",
+                "Strong consulting partnership"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "6 - 9 months (<9)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.8.0",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/455705",
+            "date": "April 5, 2018",
+            "author_job": "Data and Analytics",
+            "review_source": "Other",
+            "industry": "Miscellaneous",
+            "company_size": "<50M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Mendix is awesome!",
+            "summary": null,
+            "liked_most": null,
+            "disliked_most": null,
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Other..."
+            ],
+            "key_factors": [
+                "Other..."
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/435118",
+            "date": "February 21, 2018",
+            "author_job": "Data and Analytics",
+            "review_source": "Self directed (Gartner.com, search, ad/promo)",
+            "industry": "Services",
+            "company_size": "250M - 500M USD",
+            "go_live_year": "2014"
+        },
+        "lesson_learned": {
+            "headline": "Easy to learn, active community",
+            "summary": null,
+            "liked_most": null,
+            "disliked_most": null,
+            "advice": "Build apps using the agile framework but keep in mind best practices so that queries are speedy/efficient.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve compliance & risk management",
+                "Improve supplier or partner relationships",
+                "Improve business process agility",
+                "Improve business process outcomes",
+                "Cost management",
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Strong user community",
+                "Strong customer focus",
+                "Product functionality and performance",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.11.0",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/440889",
+            "date": "March 1, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Finance",
+            "company_size": "50M - 250M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Great developer productivity and quick to market",
+            "summary": null,
+            "liked_most": "Developer productivity",
+            "disliked_most": "usage of DOJO for building ui components",
+            "advice": "Easy to use\nGreat developer productivity\nQuick to market",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Strong user community",
+                "Strong consulting partnership",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.9",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447845",
+            "date": "March 16, 2018",
+            "author_job": "Consultant",
+            "review_source": "Other",
+            "industry": "Services",
+            "company_size": "Gov't/PS/ED <5,000 Employees",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Mendix is easy to understand but complex to apply well. It's interesting to learn it.",
+            "summary": null,
+            "liked_most": "It's fast",
+            "disliked_most": "It's exspensive.",
+            "advice": "What is the purpose and requirements of your solution",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Other..."
+            ],
+            "key_factors": [
+                "Strong user community"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "11",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/399310",
+            "date": "December 21, 2017",
+            "author_job": "Applications",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Finance",
+            "company_size": "30B + USD",
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Mendix: a strategic partner that supports beyond the platform",
+            "summary": null,
+            "liked_most": "Mendix allows businesses to build sophiscated proof of concept applications in a few days - turning ideas into applications.  The Mendix platform allows the creation of data models and screen designs to be achieved very quickly.  Further, user story management, burn-down charts, application feedback features, environment and performance monitoring tools are all built into the Mendix platform.  You don't need to select individual tools and get them working before you can start development.",
+            "disliked_most": "When you purchase a bundle of application licences these are all based on the same size of application container (with a specific amount of RAM, amount of storage, and number of process cores).  It can expensive if the business requires a small mobile application and all you have is large containers, as such a container is oversized for the application requirement.  You can purchase individual licences but this can be expensive.  The cost of entry for Mendix applications is still cheap but having the same container for a light-weight mobile application and a 10,000 user customer facing portal can be difficult to sell to the business.",
+            "advice": "Recognise that introducing a low-code RAD platform such as Mendix will challenge the way your team, technology department and business works - it's not just a technology platform.  From infrastructrure, governance, project methodology, skill sets, business engagement, scaling, service delivery and security - you will need to be prepared to build confidence within the business by demonstrating compentence.  I would recommend you get support in understanding and overcoming the challenges.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/412197",
+            "date": "December 22, 2017",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Self directed (Gartner.com, search, ad/promo)",
+            "industry": "Finance",
+            "company_size": "1B - 3B USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "A great vendor delivering an essential part of any IT toolkit",
+            "summary": null,
+            "liked_most": "It does what it should. Fast development, ridiculously fast changes. The deployment / devops are great. Migrating test>UAT>Prod is controlled and a breeze. Source code management is built right into the product. The product's ability to ensure compliance with security, prevent errors, and integrate with Web Services easily are really valued. There is tremendous flexibility on UX allowing us to complete a formal UX design process without worrying about product constraints. Releases are also frequent (monthly) and each release adds something of real value. Importantly, it's really fast.",
+            "disliked_most": "The product is very object / entity driven. There are some circumstances where one needs to create an entity to pass something where you could have just passed an attribute of another entity; however these situations are manageable. The built-in agile story management is just OK and I would prefer if Mendix integrated with Jira or Pivotal. There are small situations where the model makes you wish for something different but the solution is more commonly to shift your old preconceptions of how apps are developed. Improvements occur regularly through ongoing releases.",
+            "advice": "Start small so that you get to production as quickly as possible and control your Minimum Viable Project tightly to ensure that you don't let \"perfect\" get in the way of \"good\".",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "OutSystems",
+                "Other...",
+                "Salesforce"
+            ],
+            "purchase_reasons": [
+                "Improve business process agility",
+                "Drive innovation",
+                "Improve compliance & risk management",
+                "Improve business process outcomes",
+                "Create internal/operational efficiencies"
+            ],
+            "key_factors": [
+                "Strong customer focus",
+                "Overall cost",
+                "Product roadmap and future vision",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.9",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447116",
+            "date": "March 13, 2018",
+            "author_job": null,
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Transportation",
+            "company_size": null,
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "User friendly and fast platform.",
+            "summary": null,
+            "liked_most": "User friendly, fast and good status overview of actions ",
+            "disliked_most": "Nothing.",
+            "advice": "Understand basics of Agile SCRUM",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve business process outcomes"
+            ],
+            "key_factors": [
+                "Other..."
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.0",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447139",
+            "date": "March 13, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Finance",
+            "company_size": "500M - 1B USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Design Thinking made easy!",
+            "summary": null,
+            "liked_most": null,
+            "disliked_most": null,
+            "advice": "Start small and carry out pilot implementation.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve customer relations/service",
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Overall cost",
+                "Strong services expertise"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "9 - 12 months (<12)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447110",
+            "date": "March 13, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Miscellaneous",
+            "company_size": "250M - 500M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Very good adoption so far",
+            "summary": null,
+            "liked_most": "Communication using REST operations is really easy and simple.",
+            "disliked_most": "It is pretty hard to create custom widgets.",
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Enhance decision making",
+                "Drive innovation",
+                "Improve business process outcomes",
+                "Reduce time to market",
+                "Improve business process agility"
+            ],
+            "key_factors": [
+                "Strong services expertise",
+                "Strong user community",
+                "Strong customer focus",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.5.1",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America",
+                "Europe, Middle East and Africa",
+                "Latin America",
+                "Asia/Pacific"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/447846",
+            "date": "March 16, 2018",
+            "author_job": "Consultant",
+            "review_source": "Self directed (Gartner.com, search, ad/promo)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "Don't know"
+        },
+        "lesson_learned": {
+            "headline": "Mendix is a great platform",
+            "summary": null,
+            "liked_most": "Making an application without having to know Program languages.",
+            "disliked_most": "Nothing",
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Other..."
+            ],
+            "key_factors": [
+                "Product functionality and performance",
+                "Strong user community",
+                "Strong consulting partnership"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.11",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/451606",
+            "date": "March 22, 2018",
+            "author_job": null,
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": null,
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Mendix enables to deliver market ready cloud enabled ERP",
+            "summary": null,
+            "liked_most": null,
+            "disliked_most": null,
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation",
+                "Improve business process outcomes",
+                "Drive revenue growth",
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Other...",
+                "Product roadmap and future vision",
+                "Strong user community"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "9 - 12 months (<12)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.5.0",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Asia/Pacific",
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/455947",
+            "date": "April 6, 2018",
+            "author_job": "Consultant",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Finance",
+            "company_size": "3B - 10B USD",
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Fully agile and easy deployment",
+            "summary": null,
+            "liked_most": null,
+            "disliked_most": null,
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive innovation",
+                "Improve business process agility"
+            ],
+            "key_factors": [
+                "Strong customer focus"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.11.0",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/398949",
+            "date": "December 10, 2017",
+            "author_job": "Program and Portfolio Management",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Energy and Utilities",
+            "company_size": "1B - 3B USD",
+            "go_live_year": "2015"
+        },
+        "lesson_learned": {
+            "headline": "development and implementation is possible in weeks, transformation to DevOps becomes easy",
+            "summary": null,
+            "liked_most": "expert level of the specialist. fast respons, understand our challenge",
+            "disliked_most": "no dislikes",
+            "advice": "Don't use is for one app. Use for a landscape of Apps. \nImplement specific busines functions that add value from the first day, on Top of standard solutions if necessary.\n\nImplement CiCd including autotesting at te same time .\nImplement a solid cloud strategy. Which should not exceed more than 10 pages.\n",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/400320",
+            "date": "December 12, 2017",
+            "author_job": "Program and Portfolio Management",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Manufacturing",
+            "company_size": "3B - 10B USD",
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Mendix is supporting us in our digital transformation journey in fastlane approach",
+            "summary": null,
+            "liked_most": "Technology but more important the easyness. Even the business understands Mendix.",
+            "disliked_most": null,
+            "advice": "Start small, make sure do gain experience, especially with te business in developing simple apps. Keep in mind sprints of 2-3 weeks and maximun 3 sprints and then you go live with a MVP APP. Select the right implementation partner (cultural fit).",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/453512",
+            "date": "March 28, 2018",
+            "author_job": "Security and Risk Management",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Education",
+            "company_size": "250M - 500M USD",
+            "go_live_year": "2015"
+        },
+        "lesson_learned": {
+            "headline": "Great experience",
+            "summary": null,
+            "liked_most": null,
+            "disliked_most": null,
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market",
+                "Improve business process agility"
+            ],
+            "key_factors": [
+                "Product roadmap and future vision",
+                "Strong consulting partnership",
+                "Pre-existing relationships"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "9 - 12 months (<12)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.12",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/397793",
+            "date": "December 6, 2017",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Finance",
+            "company_size": "3B - 10B USD",
+            "go_live_year": "2015"
+        },
+        "lesson_learned": {
+            "headline": "Great product, with great features.  One of the best vendor partners.",
+            "summary": null,
+            "liked_most": "The ability to give this to an analyst or a developer and solve problems quickly.  but still maintain the flexibility of having custom widgets if needed.",
+            "disliked_most": "Its very hard to say EXACTLY what to use it for, so change management can be difficult.",
+            "advice": "Allow people to play with it.  Don't be afraid of trying to tackle a problem and see if it can help you get to the bottom of it.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/451354",
+            "date": "March 22, 2018",
+            "author_job": "Enterprise Architecture and Technology Innovation",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "500M - 1B USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Great learning path and quick ramp up to productivity",
+            "summary": null,
+            "liked_most": null,
+            "disliked_most": null,
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Cost management",
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Product functionality and performance",
+                "Other..."
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.12",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/393666",
+            "date": "December 12, 2017",
+            "author_job": "COO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Construction",
+            "company_size": "<50M USD",
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Amazing partner, customer service and relationship = Quality of Service",
+            "summary": null,
+            "liked_most": "Good user base with online forums, etc to help through programming issues.",
+            "disliked_most": "Tough question, I would say they should create more native widgets.",
+            "advice": "Make sure you outline your goals before diving in.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/407646",
+            "date": "December 23, 2017",
+            "author_job": "CIO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Finance",
+            "company_size": "1B - 3B USD",
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Easy way to get into development",
+            "summary": null,
+            "liked_most": "pace of change",
+            "disliked_most": "UI was difficult to customize",
+            "advice": "Find junior staff who want to run with a project on their own",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/397810",
+            "date": "December 6, 2017",
+            "author_job": "CIO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Services",
+            "company_size": "50M - 250M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Easy to use platform, complete toolbox, design functionality in Beta.",
+            "summary": null,
+            "liked_most": "Complete toolbox and connectors to third party platforms.",
+            "disliked_most": "Price, it is quite expensive for small apps. the price model pushes to build one big app which works against a modular approach.",
+            "advice": "Keep in mind that you still need developer skills and preferable UX designers",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/399247",
+            "date": "December 11, 2017",
+            "author_job": "CIO",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Government",
+            "company_size": "Gov't/PS/ED <5,000 Employees",
+            "go_live_year": "2016"
+        },
+        "lesson_learned": {
+            "headline": "Supportive organisation with a great development tool",
+            "summary": null,
+            "liked_most": "Business process mapping, user involvement and speed of development",
+            "disliked_most": "Nothing",
+            "advice": "Plan for significant growth",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/441119",
+            "date": "March 2, 2018",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Construction",
+            "company_size": "500M - 1B USD",
+            "go_live_year": "2015"
+        },
+        "lesson_learned": {
+            "headline": "The software is relatively easy to make and implement",
+            "summary": null,
+            "liked_most": null,
+            "disliked_most": null,
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Create internal/operational efficiencies",
+                "Improve business process agility",
+                "Reduce time to market",
+                "Improve supplier or partner relationships",
+                "Cost management"
+            ],
+            "key_factors": [
+                "Overall cost",
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/397760",
+            "date": "December 6, 2017",
+            "author_job": "Program and Portfolio Management",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Healthcare",
+            "company_size": "250M - 500M USD",
+            "go_live_year": "2010 or earlier"
+        },
+        "lesson_learned": {
+            "headline": "Mendix is real accelator to build apps and to force business to define smart requirements",
+            "summary": null,
+            "liked_most": "The synergy between business requirements and software developmen in one hand",
+            "disliked_most": null,
+            "advice": "Keep talking to the real experts within the Mendix community",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": null,
+            "key_factors": null
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": null,
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": null,
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": null
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/377631",
+            "date": "October 25, 2017",
+            "author_job": "Analyst",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Government",
+            "company_size": "3B - 10B USD",
+            "go_live_year": "2014"
+        },
+        "lesson_learned": {
+            "headline": "Mendix Advanced Training Product review",
+            "summary": null,
+            "liked_most": "I do like the quick development. The easy layout provided out of the box.",
+            "disliked_most": "There are certain nuances, such as level of embefded Data Views that are allowed, and things along that nature that are not intuitive and make certain development aspects harder. Not sure if it is due to lack of following best practices or not. I dislike how hidden some of the CSS classes are and how it can be very challenging to find out how certain items are layed out on the page and what is affecting the layouts.",
+            "advice": "Take the time to ensure proper permission and security declaration prior to deployment. It will make life easier \n instead of deciding to put it off until the end, at which point it can become overwhelming.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Product functionality and performance"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "6.10.4, 7.2, 7.5",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/377654",
+            "date": "October 25, 2017",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Manufacturing",
+            "company_size": "1B - 3B USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Implementation was simple and the software was developed with very few issues",
+            "summary": null,
+            "liked_most": "Ease / Speed of implementing new applications",
+            "disliked_most": "Mendix's estimate for helping us deploy our 2nd application was not cost effective and we were directed to a partner (this implied to us that mendix really doesn't want to be in the development / professional services business for a customer the size of our company).  working cost effectively with mendix resources was one of the reasons we selected the platform",
+            "advice": "Understand the BUSINESS REQUIREMENTS as fully as possible to try and avoid re-designs that may be required otherwise",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Improve customer relations/service",
+                "Reduce time to market",
+                "Create internal/operational efficiencies",
+                "Improve business process agility",
+                "Improve compliance & risk management",
+                "Improve supplier or partner relationships",
+                "Drive innovation",
+                "Improve business process outcomes"
+            ],
+            "key_factors": [
+                "Financial/organizational viability",
+                "Product functionality and performance",
+                "Strong consulting partnership",
+                "Overall cost"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "6.10.3",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/377633",
+            "date": "October 25, 2017",
+            "author_job": "Data and Analytics",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Retail",
+            "company_size": "3B - 10B USD",
+            "go_live_year": "2015"
+        },
+        "lesson_learned": {
+            "headline": "Mendix fills a gap in our technology resources, and has continued to please end-users",
+            "summary": null,
+            "liked_most": "It delivers what we need most.",
+            "disliked_most": "Needs better integration options with other platforms.",
+            "advice": "Learn the Mendix best practices before diving in.\n\nChoose a vendor with proven mendix track record, not just one who offers services.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market"
+            ],
+            "key_factors": [
+                "Product functionality and performance",
+                "Financial/organizational viability"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.5.0",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/383091",
+            "date": "November 7, 2017",
+            "author_job": "CEO",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "RAD for real",
+            "summary": null,
+            "liked_most": "combination of effectiveness and ease of use ",
+            "disliked_most": "-",
+            "advice": "Let your business-analysts and information-analysts have a look at it. They will be amazed with the possibilities to speed up development and be less reliant on technical expertise. ",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Drive revenue growth",
+                "Drive innovation",
+                "Reduce time to market",
+                "Improve business process agility"
+            ],
+            "key_factors": [
+                "Strong user community",
+                "Product functionality and performance",
+                "Product roadmap and future vision",
+                "Strong consulting partnership"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.8.0",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/393753",
+            "date": "November 27, 2017",
+            "author_job": "Applications",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Miscellaneous",
+            "company_size": "<50M USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "Good training en Community",
+            "summary": null,
+            "liked_most": "business thinking instead of It thinking",
+            "disliked_most": null,
+            "advice": "Do the online training",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Other..."
+            ],
+            "key_factors": [
+                "Strong user community",
+                "Product functionality and performance",
+                "Strong consulting partnership",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "I don't know",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "6.6.0 - 7.7.1 - 7.8.0",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/370480",
+            "date": "October 13, 2017",
+            "author_job": "CTO",
+            "review_source": "Invited by Vendor (direct, user community)",
+            "industry": "Services",
+            "company_size": "<50M USD",
+            "go_live_year": "Don't know"
+        },
+        "lesson_learned": {
+            "headline": "Great initial on boarding experience. Well received by customers",
+            "summary": null,
+            "liked_most": "Ease and speet of use - very fast productivity",
+            "disliked_most": "Nothing - yet",
+            "advice": "Foget everythhing you thought you new about custom application development",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": [
+                "Other...",
+                "Wavemaker"
+            ],
+            "purchase_reasons": [
+                "Drive innovation"
+            ],
+            "key_factors": [
+                "Strong services expertise",
+                "Product functionality and performance",
+                "Breadth of services"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "6.10.10; 7.71",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/383205",
+            "date": "November 7, 2017",
+            "author_job": "CIO",
+            "review_source": "Self directed (Gartner.com, search, ad/promo)",
+            "industry": "Energy and Utilities",
+            "company_size": "1B - 3B USD",
+            "go_live_year": "2015"
+        },
+        "lesson_learned": {
+            "headline": "We have increased our release cycle from 2 per year to 26 per year.",
+            "summary": null,
+            "liked_most": "Speed and model driven development.",
+            "disliked_most": null,
+            "advice": "Make sure the goal is not to build many apps but focus on how you can deliver value to the business; and fast.",
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market",
+                "Improve business process agility"
+            ],
+            "key_factors": [
+                "Product functionality and performance",
+                "Product roadmap and future vision",
+                "Strong consulting partnership"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "3 - 6 months (<6)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "N.a.",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "Europe, Middle East and Africa"
+            ]
+        }
+    },
+    {
+        "general_info": {
+            "url": "https://www.gartner.com/reviews/review/view/398999",
+            "date": "December 12, 2017",
+            "author_job": "Analyst",
+            "review_source": "Invited by Gartner (email, event, account rep)",
+            "industry": "Retail",
+            "company_size": "10B - 30B USD",
+            "go_live_year": "2017"
+        },
+        "lesson_learned": {
+            "headline": "5 stars",
+            "summary": null,
+            "liked_most": null,
+            "disliked_most": null,
+            "advice": null,
+            "do_differently": null
+        },
+        "evaluation_contracting": {
+            "vendors_considered": null,
+            "purchase_reasons": [
+                "Reduce time to market",
+                "Enhance decision making",
+                "Improve business process outcomes",
+                "Drive innovation",
+                "Drive revenue growth",
+                "Improve compliance & risk management",
+                "Cost management",
+                "Create internal/operational efficiencies",
+                "Improve customer relations/service",
+                "Improve business process agility"
+            ],
+            "key_factors": [
+                "Strong services expertise",
+                "Strong consulting partnership",
+                "Overall cost",
+                "Breadth of services",
+                "Strong user community",
+                "Strong customer focus",
+                "Product functionality and performance",
+                "Product roadmap and future vision"
+            ]
+        },
+        "integration_deployment": {
+            "technologies": null,
+            "deployment_time": "0 - 3 months (<3)",
+            "implementation_strategy": null
+        },
+        "additional_context": {
+            "version_number": "7.1.1",
+            "deployment_scale": null,
+            "time_used": null,
+            "usage_frequency": null,
+            "deployment_region": [
+                "North America"
+            ]
+        }
+    }
+]

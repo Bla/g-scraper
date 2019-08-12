@@ -1,0 +1,10 @@
+# Folders to ignore
+.ipynb_checkpoints/
+Lib/
+Scripts/
+etc/
+share/
+
+# Files to ignore
+*.log
+*.cfg
