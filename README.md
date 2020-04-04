@@ -1,5 +1,5 @@
 # Gartner Scraper
-This script scrapes data from Gartner Insights and stores it in a JSON file.
+This script scrapes data from Gartner Insights and stores the results in a JSON file.
 
 ## Getting Started
 Requirements:
